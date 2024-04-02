@@ -4,3 +4,5 @@ welcome_set_up: <#%{channel}>を歓迎チャンネルに設定しました。設
 goodbye_set_up: <#%{channel}>をさようならチャンネルに設定しました。設定が完了しました。[dashboard](https://matsuri.rlss.in.th) に移動して歓迎メッセージを設定してください。
 
 set_language: 言語を %{language} に設定しました。完了しました。
+
+setup_music_room: <#%{channel.id}> に音楽ルームが正常にセットアップされました
