@@ -1,0 +1,51 @@
+# Player
+not_in_voice: คุณต้องเข้าช่องเสียงก่อนใช้คำสั่งนี้นะคะ!
+not_same_voice: คุณไม่ได้อยู่ภายในช่องเสียงเดียวกันกับเรานะคะ
+no_player: ภายในเซิร์ฟเวอร์นี้ไม่มีเพลงที่กำลังเล่นอยู่ค่ะ
+
+# Music Room
+music_room_pause: หยุดเล่นเพลงชั่วคราวเรียบร้อยแล้วค่ะ
+music_room_autoplay_enabled: เปิดการใช้งานฟังชั่นเล่นเพลงอัตโนมัติแล้วค่ะ
+music_room_autoplay_disabled: ปิดการใช้งานฟังชั่นเล่นเพลงอัตโนมัติแล้วค่ะ
+music_room_stop: ปิดเพลงเรียบร้อยแล้วค่ะ
+music_room_resume: กลับมาเล่นเพลงแล้วค่ะ
+music_room_vol: ปรับระดับเสียงเป็น %{percent}% แล้วค่ะ
+
+# Autoplay
+autoplay_enabled: เปิดการใช้งานฟังชั่นเล่นเพลงอัตโนมัติแล้วค่ะ
+autoplay_disabled: ปิดการใช้งานฟังชั่นเล่นเพลงอัตโนมัติแล้วค่ะ
+
+# Filter
+filter_cleared: ปิดฟิวเตอร์ทั้งหมดแล้วค่ะ
+filter_bassboost: เปิดฟิวเตอร์ bassboost แล้วค่ะ
+filter_karaoke: เปิดฟิวเตอร์ karaoke แล้วค่ะ
+filter_eightd: เปิดฟิวเตอร์ 8D แล้วค่ะ
+filter_nightcore: เปิดฟิวเตอร์ nightcore แล้วค่ะ
+
+# Loop
+loop_queue: เปิดการลูปแบบคิวแล้วค่ะ
+loop_song: เปิดการลูปแบบเพลงเดียวแล้วค่ะ
+loop_none: ปิดการลูปแล้วค่ะ
+
+# Pause
+paused: หยุดการเล่นเพลงชั่วคราวแล้วค่ะ
+
+# Play
+search_error: ขออภัยค่ะ เกิดข้อผิดพลาดขึ้นขณะการหาเพลงค่ะ
+search_not_found: ขออภัยค่ะ ไม่พบเพลงที่คุณกำลังตามหา
+playlist_add: เพลย์ลิสต์ %{name} กับ %{length} เพลง ได้ถูกเพิ่มเข้าไปในรายการรอแล้วค่ะ
+playlist_footer: "โหนด: %{node} | ระยะเวลา: %{d} วัน %{h} ชั่วโมง %{m} นาที %{s} วินาที"
+track_add: "%{name} ถูกเพิ่มเข้าไปในรายการรอแล้ว"
+track_footer: "Source: %{sourceName} | โหนด: %{node} | ระยะเวลา: %{d} วัน %{h} ชั่วโมง %{m} นาที %{s} วินาที"
+
+# Resume
+resumed: กลับมาเล่นเพลงแล้วค่ะ
+
+# Skip
+skipped: ข้ามเพลงแล้วค่ะ
+
+# Stop
+stopped: หบุดเพลงแล้วค่ะ
+
+# Volume
+volume_adjust: ปรับระดับเสียงเป็น %{percent}% แล้วค่ะ

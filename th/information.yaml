@@ -1,0 +1,3 @@
+help_please_select: โปรดเลือกหมวดหมู่คำสั่ง
+help_list_commands: ดูคำสั่งทั้งหมดจากหมวดหมู่ %{category}
+help_commands_from: คำสั่งทั้งหมดจากหมวดหมู่ %{category}

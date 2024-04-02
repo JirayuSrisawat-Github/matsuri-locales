@@ -1,0 +1,51 @@
+# Player
+not_in_voice: First of all, you have to be in a voice channel
+not_same_voice: You're not on the same sound channel as us
+no_player: On this server, the player is not playing
+
+# Music Room
+music_room_pause: Paused
+music_room_autoplay_enabled: Enabled autoplay
+music_room_autoplay_disabled: Disabled autoplay
+music_room_stop: Stopped
+music_room_resume: Unpaused
+music_room_vol: Adjust volume to %{percent}%
+
+# Autoplay
+autoplay_disabled: Disabled autoplay
+autoplay_enabled: Enabled autoplay
+
+# Filter
+filter_cleared: Cleared filters
+filter_bassboost: Toogled bassboost
+filter_karaoke: Toogled karaoke
+filter_eightd: Toggled 8D
+filter_nightcore: Toggled Nightcore
+
+# Loop
+loop_queue: Enabled queue loop
+loop_song: Enabled song loop
+loop_none: Disabled loop
+
+# Pause
+paused: Paused
+
+# Play
+search_error: There was error while searching song
+search_not_found: There were no results found
+playlist_add: playlist %{name} with %{length} songs has been added to the waiting list, spreading joy
+playlist_footer: "Node: %{node} | Duration: %{d} days %{h} hours %{m} minutes %{s} seconds"
+track_add: "%{name} was added to the waiting list"
+track_footer: "Source: %{sourceName} | Node: %{node} | Duration: %{d} days %{h} hours %{m} minutes %{s} seconds"
+
+# Resume
+resumed: Unpaused
+
+# Skip
+skipped: Skipped
+
+# Stop
+stopped: Stopped
+
+# Volume
+volume_adjust: Adjust volume to %{percent}%

@@ -1,0 +1,6 @@
+not_enough_perms: ขออภัยค่ะ คุณมีสิทธิ์ไม่เพียงพอที่จะใช้คำสั่งนี้
+
+welcome_set_up: ตั้งค่า <#%{channel}> เป็นช่องต้อนรับสำเร็จแล้วค่ะ โปรดไปที่ [dashboard](https://matsuri.rlss.in.th) เพื่อตั้งค่าข้อความต้อนรับค่ะ
+goodbye_set_up: ตั้งค่า <#%{channel}> เป็รช่องบอกลาสำเร็จแล้วค่ะ โปรดไปที่ [dashboard](https://matsuri.rlss.in.th) เพื่อตั้งค่าข้อความบอกลาค่ะ
+
+set_language: ตั้งค่าภาษาเป็น %{language} เรียบร้อยแล้วค่ะ

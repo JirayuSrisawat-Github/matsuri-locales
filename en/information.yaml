@@ -1,0 +1,3 @@
+help_please_select: Please select category
+help_list_commands: List all commands from %{category}
+help_commands_from: All commands from %{category}
