@@ -1,0 +1,6 @@
+not_enough_perms: ທ່ານບໍ່ມີສິດພຽງພໍທີ່ຈະໃຊ້ຄໍາສັ່ງນີ້
+
+welcome_set_up: ສຳເລັດການຕັ້ງຄ່າ <#%{channel}> ເພື່ອຕ້ອນຮັບຊ່ອງ. ກະລຸນາໄປທີ່ [dashboard](https://matsuri.rlss.in.th) ເພື່ອຕັ້ງຄ່າຂໍ້ຄວາມຍິນດີຕ້ອນຮັບຂອງທ່ານ
+goodbye_set_up: ສຳເລັດການຕັ້ງຄ່າ <#%{channel}> ໃຫ້ກັບຊ່ອງ goodbye. ກະລຸນາໄປທີ່ [dashboard](https://matsuri.rlss.in.th) ເພື່ອຕັ້ງຄ່າຂໍ້ຄວາມລາຂອງທ່ານ
+
+set_language: ປ່ຽນພາສາເປັນ %{language}

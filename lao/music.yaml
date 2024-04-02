@@ -1,0 +1,51 @@
+# Player
+not_in_voice: ກ່ອນອື່ນ ໝົດ, ທ່ານຕ້ອງຢູ່ໃນຊ່ອງທາງສຽງ
+not_same_voice: ເຈົ້າບໍ່ໄດ້ຢູ່ໃນຊ່ອງສຽງດຽວກັນກັບພວກເຮົາ
+no_player: ໃນເຊີບເວີນີ້, ຜູ້ນບໍ່ໄດ້ຫຼິ້ນ
+
+# Music Room
+music_room_pause: ຢຸດຊົ່ວຄາວ
+music_room_autoplay_enabled: ເປີດໃຊ້ການຫຼິ້ນອັດຕະໂນມັດ
+music_room_autoplay_disabled: ປິດການຫຼິ້ນອັດຕະໂນມັດ
+music_room_stop: ຢຸດເຊົາ
+music_room_resume: ບໍ່ໄດ້ຢຸດຊົ່ວຄາວ
+music_room_vol: ປັບລະດັບສຽງເປັນ %{percent}%
+
+# Autoplay
+autoplay_disabled: ປິດການຫຼິ້ນອັດຕະໂນມັດ
+autoplay_enabled: ເປີດໃຊ້ການຫຼິ້ນອັດຕະໂນມັດ
+
+# Filter
+filter_cleared: ລຶບລ້າງຕົວກອງແລ້ວ
+filter_bassboost: ເປີດການເຮັດພູ
+filter_karaoke: ສະຫຼັບ karaoke
+filter_eightd: ສະຫຼັບ 8D
+filter_nightcore: ສະຫຼັບ Nightcore
+
+# Loop
+loop_queue: ເປີດ​ໃຊ້​ງານ queue loop
+loop_song: ເປີດ​ໃຊ້​ງານ song loop
+loop_none: ປິດ​ໃຊ້​ງານ loop
+
+# Pause
+paused: ຢຸດຊົ່ວຄາວ
+
+# Play
+search_error: ມີ​ຄວາມ​ຜິດ​ພາດ​ໃນ​ຂະ​ນະ​ທີ່​ຊອກ​ຫາ​ເພງ​
+search_not_found: ບໍ່ພົບຜົນໄດ້ຮັບ
+playlist_add: ລາຍການຫຼິ້ນ %{name} ທີ່ມີ %{length} ເພງໄດ້ຖືກເພີ່ມເຂົ້າໃນລາຍການລໍຖ້າ, ກະຈາຍຄວາມສຸກ
+playlist_footer: "ໂນດ: %{node} | ໄລຍະເວລາ: %{d} ມື້ %{h} ຊົ່ວໂມງ %{m} ນາທີ %{s} ວິນາທີ"
+track_add: "%{name} ຖືກເພີ່ມໃສ່ລາຍຊື່ລໍຖ້າ"
+track_footer: "ທີ່ມາ: %{sourceName} | ໂນດ: %{node} | ໄລຍະເວລາ: %{d} ມື້ %{h} ຊົ່ວໂມງ %{m} ນາທີ %{s} ວິນາທີ"
+
+# Resume
+resumed: ບໍ່ໄດ້ຢຸດຊົ່ວຄາວ
+
+# Skip
+skipped: ຂ້າມ
+
+# Stop
+stopped: ຢຸດເຊົາ
+
+# Volume
+volume_adjust: ປັບລະດັບສຽງເປັນ %{percent}%
