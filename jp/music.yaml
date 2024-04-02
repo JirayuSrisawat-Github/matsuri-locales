@@ -1,0 +1,51 @@
+# Player
+not_in_voice: このコマンドを使用する前に、ボイスチャネルに参加してくださいね！
+not_same_voice: あなたは私たちと同じボイスチャンネルにいませんね、ご注意ください
+no_player: このサーバーでは現在再生中の曲はありません
+
+# Music Room
+music_room_pause: 一時的に曲の再生を停止しました
+music_room_autoplay_enabled: 自動再生機能が有効になりました
+music_room_autoplay_disabled: 自動再生機能が無効になりました
+music_room_stop: 曲を正常に停止しました
+music_room_resume: 曲を再生しています
+music_room_vol: 音量を %{percent}% に調整しました
+
+# Autoplay
+autoplay_enabled: 自動再生機能が有効になりました
+autoplay_disabled: 自動再生機能が無効になりました
+
+# Filter
+filter_cleared: 全てのフィルターを閉じました
+filter_bassboost: bassboost フィルターをオンにしました
+filter_karaoke: karaoke フィルターをオンにしました
+filter_eightd: 8D フィルターをオンにしました
+filter_nightcore: nightcore フィルターをオンにしました
+
+# Loop
+loop_queue: キュー ループを有効にしました
+loop_song: シングル曲ループを有効にしました
+loop_none: ループを無効にしました
+
+# Pause
+paused: 一時的に曲の再生を停止しました
+
+# Play
+search_error: 申し訳ありません。曲を検索中にエラーが発生しました。
+search_not_found: 申し訳ありません。お探しの曲が見つかりませんでした。
+playlist_add: プレイリスト %{name} に %{length} 曲が追加されました。お待ちください。
+playlist_footer: "ノード: %{node} | 時間: %{d} 日 %{h} 時間 %{m} 分 %{s} 秒"
+track_add: "%{name} がキューに追加されました。"
+track_footer: "ソース: %{sourceName} | ノード: %{node} | 時間: %{d} 日 %{h} 時間 %{m} 分 %{s} 秒"
+
+# Resume
+resumed: 曲を再生しています
+
+# Skip
+skipped: 曲をスキップしました
+
+# Stop
+stopped: 曲を停止しました
+
+# Volume
+volume_adjust: 音量を%{percent}%に調整しました

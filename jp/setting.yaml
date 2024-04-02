@@ -1,0 +1,6 @@
+not_enough_perms: 申し訳ありません。このコマンドを使用する権限が不十分です
+
+welcome_set_up: <#%{channel}>を歓迎チャンネルに設定しました。設定を完了しました。[dashboard](https://matsuri.rlss.in.th) に移動して歓迎メッセージを設定してください。
+goodbye_set_up: <#%{channel}>をさようならチャンネルに設定しました。設定が完了しました。[dashboard](https://matsuri.rlss.in.th) に移動して歓迎メッセージを設定してください。
+
+set_language: 言語を %{language} に設定しました。完了しました。
