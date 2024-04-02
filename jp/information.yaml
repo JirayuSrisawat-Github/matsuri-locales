@@ -1,0 +1,3 @@
+help_please_select: コマンドのカテゴリを選択してください。
+help_list_commands: カテゴリからすべてのコマンドを見る %{category}
+help_commands_from: カテゴリからのすべてのコマンド %{category}
