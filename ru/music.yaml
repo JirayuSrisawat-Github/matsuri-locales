@@ -1,0 +1,51 @@
+# Player
+not_in_voice: Вам нужно войти в голосовой чат, чтобы использовать эту команду!
+not_same_voice: Вы не в том же голосовом чате, что и я.
+no_player: В данный момент не играет ни одна песня! Вам нужно сначала выбрать песню.
+
+# Music Room
+music_room_pause: Я поставила музыку на паузу!
+music_room_autoplay_enabled: Я включила функцию автовоспроизведения!
+music_room_autoplay_disabled: Я выключила функцию автовоспроизведения!
+music_room_stop: Я остановила музыку!
+music_room_resume: Я возобновила воспроизведение музыки!
+music_room_vol: Я установила громкость на %{percent}%!
+
+# Autoplay
+autoplay_disabled: Я включила функцию автовоспроизведения!
+autoplay_enabled: Я выключила функцию автовоспроизведения!
+
+# Filter
+filter_cleared: Я отключила все фильтры!
+filter_bassboost: Я включила фильтр BassBoost!
+filter_karaoke: Я включила фильтр караоке!
+filter_eightd: Я включила фильтр 8D!
+filter_nightcore: Я включила фильтр Nightcore!
+
+# Loop
+loop_queue: Я включила повтор **всей очереди**!
+loop_song: Я включила повтор **текущей песни**!
+loop_none: Я выключила повтор!
+
+# Pause
+paused: Я поставила музыку на паузу.
+
+# Play
+search_error: К сожалению, я не могу найти эту песню!
+search_not_found: К сожалению, я не могу найти песню, которую вы ищете!
+playlist_add: Я добавила плейлист %{name} с %{length} песнями в очередь!
+playlist_footer: "Node: %{node} | Duration: %{d} days %{h} hours %{m} minutes %{s} seconds"
+track_add: ""%{name}" была добавлена в очередь!"
+track_footer: "Source: %{sourceName} | Node: %{node} | Duration: %{d} days %{h} hours %{m} minutes %{s} seconds"
+
+# Resume
+resumed: Я возобновила воспроизведение музыки!
+
+# Skip
+skipped: Я пропустила песню!
+
+# Stop
+stopped: Я остановила музыку для вашего господина!
+
+# Volume
+volume_adjust: Я установила громкость на %{percent}%.
