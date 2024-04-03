@@ -1,2 +1,6 @@
+chat_generating: Generating the response Please wait a moment...
 chat_broke: ມີບາງຢ່າງຜິດພາດໃນລະຫວ່າງການສ້າງຂໍ້ຄວາມຕອບ
+
 imagine_broke: ມີບາງຢ່າງຜິດພາດໃນລະຫວ່າງການສ້າງຮູບພາບ
+imagine_generating: Generating the picture Please wait a moment...
+imagine_success: Successfully generating the image!

@@ -1,2 +1,6 @@
+chat_generating: Generating the response Please wait a moment...
 chat_broke: ขออภัยค่ะ เกิดข้อผิดพลาดในระหว่างการตอบกลับข้อความของนายท่านค่ะ!
+
 imagine_broke: ขออภัยค่ะ เกิดข้อผิดพลาดในระหว่างการสร้างรูปภาพให้นายท่านค่ะ!
+imagine_generating: Generating the picture Please wait a moment...
+imagine_success: Successfully generating the image!

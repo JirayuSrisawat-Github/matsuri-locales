@@ -1,2 +1,6 @@
 chat_broke: 申し訳ありません。メッセージの作成中にエラーが発生しました。
+chat_generating: Generating the response Please wait a moment...
+
 imagine_broke: 申し訳ありません。画像を作成中にエラーが発生しました。
+imagine_generating: Generating the picture Please wait a moment...
+imagine_success: Successfully generating the image!
