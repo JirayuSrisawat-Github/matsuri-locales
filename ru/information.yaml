@@ -1,0 +1,3 @@
+help_please_select: Пожалуйста, выберите категорию команд, которые вы хотите посмотреть!
+help_list_commands: Посмотреть все команды из категории %{category}!
+help_commands_from: Вот все команды из категории %{category}!
