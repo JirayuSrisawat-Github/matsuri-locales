@@ -35,7 +35,7 @@ search_error: К сожалению, я не могу найти эту песн
 search_not_found: К сожалению, я не могу найти песню, которую вы ищете!
 playlist_add: Я добавила плейлист %{name} с %{length} песнями в очередь!
 playlist_footer: "Node: %{node} | Duration: %{d} days %{h} hours %{m} minutes %{s} seconds"
-track_add: ""%{name}" была добавлена в очередь!"
+track_add: "%{name} была добавлена в очередь!"
 track_footer: "Source: %{sourceName} | Node: %{node} | Duration: %{d} days %{h} hours %{m} minutes %{s} seconds"
 
 # Resume
