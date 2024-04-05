@@ -1,0 +1,22 @@
+ai_chat: ໃຊ້ມັນເພື່ອສົນທະນາກັບ matsuri.
+ai_imagine: ໃຊ້ມັນເພື່ອເຮັດໃຫ້ matsuri ສ້າງຮູບພາບ.
+
+information_botinfo: ເອົາສະຖານະຂອງ bot.
+information_help: ເອົາຄໍາສັ່ງຂອງ bot.
+information_ping: ເອົາ ping ຂອງ bot.
+
+music_autoplay: Shuffle ຈະເພີ່ມເພງໃສ່ຄິວໂດຍອັດຕະໂນມັດໂດຍອີງໃສ່ຊື່ຂອງເພງທີ່ຫຼິ້ນຫຼ້າສຸດ.
+music_filter​: ນໍາ​ໃຊ້​ບາງ​ການ​ກັ່ນ​ຕອງ​ກັບ​ເພງ​.
+music_loop: Loop ເພງປະຈຸບັນຫຼືຄິວ.
+music_pause: ຢຸດເພງປັດຈຸບັນຊົ່ວຄາວ.
+music_play: ຫຼິ້ນດົນຕີ.
+music_queue: ບອກເພງທັງໝົດຢູ່ໃນຄິວ.
+music_resume: ສືບຕໍ່ເພງປັດຈຸບັນ.
+music_skip: ຂ້າມເພງປັດຈຸບັນ.
+music_stop: ຢຸດເພງປັດຈຸບັນ.
+music_volume: ປັບລະດັບສຽງຂອງເພງປັດຈຸບັນ.
+
+setting_set_language: ປ່ຽນພາສາຂອງ bot.
+setting_setup_welcome: ຕັ້ງຄ່າຊ່ອງຍິນດີຕ້ອນຮັບ.
+setting_setup_goodbye: ຕັ້ງຄ່າຊ່ອງທາງການລາ.
+setting_setup: ຕັ້ງຫ້ອງດົນຕີ.

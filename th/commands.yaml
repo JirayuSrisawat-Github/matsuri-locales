@@ -1,0 +1,22 @@
+ai_chat: แชทกับมัตสึริ (ใช้เพื่อพูดคุยกับมัตสึริ)
+ai_imagine: สร้างภาพโดยมัตสึริ (ใช้เพื่อให้มัตสึริสร้างภาพ)
+
+information_botinfo: ตรวจสอบสถานะของบอท
+information_help: รับคำสั่งของบอท
+information_ping: เช็คความเร็วตอบสนองของบอท
+
+music_autoplay: เล่นเพลงอัตโนมัติโดยอิงจากชื่อเพลงที่เล่นล่าสุด
+music_filter: ปรับแต่งเสียง
+music_loop: วนซ้ำเพลงหรือคิว
+music_pause: หยุดเพลงชั่วคราว
+music_play: เล่นเพลง
+music_queue: แสดงรายการเพลงทั้งหมดในคิว
+music_resume: เล่นเพลงต่อ
+music_skip: ข้ามเพลงปัจจุบัน
+music_stop: หยุดเพลง
+music_volume: ปรับระดับเสียงเพลงปัจจุบัน
+
+setting_set_language: เปลี่ยนภาษาของบอท
+setting_setup_welcome: ตั้งค่าช่องต้อนรับ
+setting_setup_goodbye: ตั้งค่าช่องกล่าวอำลา
+setting_setup: ตั้งค่าห้องสั่งเพลง

@@ -5,4 +5,4 @@ goodbye_set_up: <#%{channel}>をさようならチャンネルに設定しまし
 
 set_language: 言語を %{language} に設定しました。完了しました。
 
-setup_music_room: <#%{channel.id}> に音楽ルームが正常にセットアップされました
+setup_music_room: <#%{channel}> に音楽ルームが正常にセットアップされました

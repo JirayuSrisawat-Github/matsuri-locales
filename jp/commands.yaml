@@ -1,0 +1,22 @@
+ai_chat: まつりちゃんとお話する
+ai_imagine: まつりちゃんに画像を作らせる
+
+information_botinfo: ボットの状態を取得
+information_help: コマンド一覧を取得
+information_ping: ボットの ping を取得
+
+music_autoplay: 自動再生 (jidō saisei)
+music_filter: フィルターをかける
+music_loop: ループ
+music_pause: 一時停止
+music_play: 音楽を再生
+music_queue: キュー内のすべての曲を表示
+music_resume: 再開
+music_skip: スキップ
+music_stop: 停止
+music_volume: 音量調整
+
+setting_set_language: ボットの言語を変更
+setting_setup_welcome: ウェルカムチャンネルを設定
+setting_setup_goodbye: グッバイチャンネルを設定
+setting_setup: 音楽ルームを設定

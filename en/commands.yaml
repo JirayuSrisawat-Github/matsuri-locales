@@ -1,0 +1,22 @@
+ai_chat: Use it to talk with matsuri.
+ai_imagine: Use it to make the matsuri create an image.
+
+information_botinfo: Get the status of the bot.
+information_help: Get the commands of the bot.
+information_ping: Get the ping of the bot.
+
+music_autoplay: Shuffle automatically adds songs to the queue based on the name of the most recently played song.
+music_filter: Apply some filter to song.
+music_loop: Loop the current song or queue.
+music_pause: Pause current song.
+music_play: Play some music.
+music_queue: List all songs in queue.
+music_resume: Resume current song.
+music_skip: Skip current song.
+music_stop: Stop current song.
+music_volume: Adjust the volume of the current song.
+
+setting_set_language: Change the language of the bot.
+setting_setup_welcome: Setup welcome channel.
+setting_setup_goodbye: Setup goodbye channel.
+setting_setup: Setup music room.

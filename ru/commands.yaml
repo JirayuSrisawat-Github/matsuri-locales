@@ -1,0 +1,22 @@
+ai_chat: Общение с Мацури (Obshchenie s Matsuri)
+ai_imagine: Создать изображение с Мацури (Sozdat izobrazhenie s Matsuri)
+
+information_botinfo: Статус бота (Status bota)
+information_help: Команды бота (Komandy bota)
+information_ping: Пинг бота (Ping bota)
+
+music_autoplay: Автоматическое добавление песен в очередь по названию последней (Avtomaticheskoe dobavlenie pesen v ochered po nazvaniyu poslednei)
+music_filter: Применить фильтр к песне (Primenit filtr k pesne)
+music_loop: Цикл текущей песни или очереди (Tsikl tekushchey pesni ili ocheredi)
+music_pause: Пауза (Pauza)
+music_play: Играть музыку (Igrat muziku)
+music_queue: Список всех песен в очереди (Spisok vsekh pesen v ocheredi)
+music_resume: Возобновить (Vozobnovit)
+music_skip: Пропустить текущую песню (Propustit tekushchuyu pesnyu)
+music_stop: Остановить текущую песню (Ostanovit tekushchuyu pesnyu)
+music_volume: Регулировка громкости текущей песни (Regulirovka gromkosti tekushchey pesni)
+
+setting_set_language: Изменить язык бота (Izmenit yazyk bota)
+setting_setup_welcome: Настроить приветственный канал (Nastroit privetstvennyi kanal)
+setting_setup_goodbye: Настроить канал прощания (Nastroit kanal proschaniya)
+setting_setup: Настроить музыкальную комнату (Nastroit muzykalnuyu komnatu)

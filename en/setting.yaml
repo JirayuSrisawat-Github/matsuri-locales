@@ -5,4 +5,4 @@ goodbye_set_up: Successfully setting up <#%{channel}> to goodbye channel. please
 
 set_language: Changed language to %{language}
 
-setup_music_room: Successfully setup music room at <#%{channel.id}>
+setup_music_room: Successfully setup music room at <#%{channel}>
