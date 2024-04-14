@@ -10,6 +10,14 @@ music_room_autoplay_disabled: Disabled autoplay
 music_room_stop: Stopped
 music_room_resume: Unpaused
 music_room_vol: Adjust volume to %{percent}%
+music_room_send_to_play: Type name or link of song to play
+music_room_queue_empty: Queue is empty
+music_room_source: Source
+music_room_node: Node
+music_room_duration: Duration
+music_room_volume: Volume
+music_room_repeat_mode: Repeat mode
+music_room_autoplay_mode: Autoplay mode
 
 # Autoplay
 autoplay_disabled: Disabled autoplay
